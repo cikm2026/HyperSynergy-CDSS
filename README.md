@@ -31,10 +31,3 @@ This project utilizes a modern, serverless front-end architecture communicating 
 ## 🎓 Academic Context
 
 This application is the culmination of a Ph.D. research project focusing on Macro-to-Micro Geometric Learning.
-
-**Lead Researcher:** Vo Thi Kim Anh
-
-- _Ph.D. Candidate_, VSB - Technical University of Ostrava, Czech Republic
-- _Researcher_, Ton Duc Thang University, Vietnam
-
-**Contact:** [vothikimanh@tdtu.edu.vn](mailto:vothikimanh@tdtu.edu.vn) | [thi.kim.anh.vo.st@vsb.cz](mailto:thi.kim.anh.vo.st@vsb.cz)
